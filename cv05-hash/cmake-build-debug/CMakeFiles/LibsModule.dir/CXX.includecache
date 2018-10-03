@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/main.cpp
+cstdio
+-
+cstring
+-
+openssl/evp.h
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-proudovaSifra/main.cpp
+stdlib.h
+-
+openssl/evp.h
+-
+string.h
+-
+string
+-
+

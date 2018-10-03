@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cv08_generovaniKlicu.dir/main.cpp.o  -o cv08_generovaniKlicu libLibsModule.a -lcrypto 

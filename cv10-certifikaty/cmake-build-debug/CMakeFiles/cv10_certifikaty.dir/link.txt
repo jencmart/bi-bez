@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cv10_certifikaty.dir/main.cpp.o  -o cv10_certifikaty libLibsModule.a -lcrypto -lssl 

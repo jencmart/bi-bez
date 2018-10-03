@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cv05_hash"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cv05_hash">
+				<Option output="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/cv05_hash" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 cv05_hash"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cv05_hash/fast">
+				<Option output="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/cv05_hash" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 cv05_hash/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibsModule">
+				<Option output="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/libLibsModule.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 LibsModule"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LibsModule/fast">
+				<Option output="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/libLibsModule.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/../../../../include/c++/7.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/7.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 LibsModule/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/main.cpp">
+			<Option target="cv05_hash"/>
+			<Option target="LibsModule"/>
+		</Unit>
+		<Unit filename="/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-hash/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

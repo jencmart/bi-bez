@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cv05_proudovaSifra.dir/main.cpp.o  -o cv05_proudovaSifra libLibsModule.a -lcrypto 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cv06_obrazek.dir/main.cpp.o  -o cv06_obrazek 

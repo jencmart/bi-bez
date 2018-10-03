@@ -1,0 +1,4 @@
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv08-generovaniKlicu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv08-generovaniKlicu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv08-generovaniKlicu/cmake-build-debug/CMakeFiles/cv08_generovaniKlicu.dir
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv08-generovaniKlicu/cmake-build-debug/CMakeFiles/LibsModule.dir

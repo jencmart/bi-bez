@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv10-certifikaty/main.cpp
+arpa/inet.h
+-
+cstdlib
+-
+cstdio
+-
+fstream
+-
+iostream
+-
+openssl/ssl.h
+-
+strings.h
+-
+unistd.h
+-
+

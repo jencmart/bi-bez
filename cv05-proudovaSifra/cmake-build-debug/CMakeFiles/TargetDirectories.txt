@@ -1,0 +1,4 @@
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-proudovaSifra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-proudovaSifra/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-proudovaSifra/cmake-build-debug/CMakeFiles/cv05_proudovaSifra.dir
+/home/jencmart/Dropbox/development/fitcvut/bi-bez/cv05-proudovaSifra/cmake-build-debug/CMakeFiles/LibsModule.dir
